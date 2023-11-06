@@ -1,0 +1,155 @@
+h1{
+    background-color: white;
+    text-align: center;
+    
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+    
+  }
+body{
+    background-color:coral;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+div{
+    display: flex;
+}
+.nap{
+    
+    border-color: red;
+    border-style: solid;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    position: relative;
+  left: 200px;
+  margin: 2px !important;
+  
+    
+    
+}
+.vege{
+    
+    border-color: green;
+    border-style: solid;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    position: relative;
+  left: 200px;
+  margin: 2px !important;
+}
+#szak{
+    border-style: solid;
+    border-color: white;
+    width: 100px;
+    height: 50px;
+}
+#ido{
+    display: flex;
+    flex-grow: 8;
+    justify-content: center;
+    
+}
+#ido>div>p{
+    display: flex;
+    
+   
+    border-style: solid;
+    border-color: yellow;
+    width: 100px;
+    height: 30px;
+    border-radius:10px ;
+    text-align: center;
+    
+}
+#het{
+    display: flex;
+    flex-direction:column;
+   
+    
+    border-radius:10px ;
+}
+.orak{
+    
+    border-style: solid;
+    border-color: red;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top:-270px;
+    border-radius:10px ;
+    margin: 10px;
+}
+.orak2{
+   
+    border-style: solid;
+    border-color: red;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top:-425px;
+    border-radius:10px ;
+}
+.orak3{
+    
+    border-style: solid;
+    border-color: red;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top:-400px;
+    border-radius:10px ;
+}
+.orak4{
+   
+    border-style: solid;
+    border-color: red;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top:-370px;
+    border-radius:10px ;
+}
+.orak5{
+    
+    border-style: solid;
+    border-color: red;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top:-347px;
+    border-radius:10px ;
+}
+#tabla{
+    position: relative;
+    left: 335px;
+    width: 850px;
+    height: 200px;
+    
+}
+
+.sunet{
+    
+    border-color: green;
+    border-style: solid;
+    width: 100px;
+    height: 30px;
+    
+    position: relative;
+    border-radius:10px ;
+    top:-315px;
+}
+.sunet2{
+    
+    border-color: green;
+    border-style: solid;
+    width: 100px;
+    height: 30px;
+    
+    position: relative;
+    border-radius:10px ;
+    top:-285px;
+}
